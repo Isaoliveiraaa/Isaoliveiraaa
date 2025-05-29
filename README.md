@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👩‍💻 Isabelle Barbosa
 
-<!--
-**Isaoliveiraaa/Isaoliveiraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Seja bem-vindo(a) ao meu perfil. Sou **Analista de BI** apaixonada por dados, tecnologia e soluções inteligentes.
 
-Here are some ideas to get you started:
+- 🎯 Atualmente trabalho com **Power BI, SQL, Python, Excel, Google Sheets** e **AppsFlyer**
+- 📚 Estudando **Análise e Desenvolvimento de Sistemas** (último ano)
+   - Aperfeiçoando **Inglês**
+   - Formação complementar em **Gestão de Tráfego Pago e Mídia Performance**
+- 🚀 Explorando o **GitHub**, programando um **CRM odontológico** e criando **dashboards de impacto**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Portfólio
+🖥️ [Acesse meu portfólio aqui](https://isabellebarbosa0819.wixsite.com/meu-portif-lio)
+
+---
+
+## 📫 Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/isabelle-barbosa-analista-bi/)
+- ✉️ E-mail: isabellebarbosa081@gmail.com
