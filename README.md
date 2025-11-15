@@ -1,9 +1,9 @@
-# 👩‍💻 Isabelle Barbosa
+# 👩‍💻 Isabelle Oliveira
 
 Olá! Seja bem-vindo(a) ao meu perfil. Sou **Analista de BI** apaixonada por dados, tecnologia e soluções inteligentes.
 
 - 🎯 Atualmente trabalho com **Power BI, SQL, Python, Excel, Google Sheets** e **AppsFlyer**
-- 📚 Estudando **Análise e Desenvolvimento de Sistemas** (último ano)
+- 📚 Formada em **Análise e Desenvolvimento de Sistemas** 
    - Aperfeiçoando **Inglês**
    - Formação complementar em **Gestão de Tráfego Pago e Mídia Performance**
 - 🚀 Explorando o **GitHub**, programando um **CRM odontológico** e criando **dashboards de impacto**
